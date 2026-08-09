@@ -24,3 +24,17 @@ Moderna web stranica za građevinsku firmu, izrađena sa fokusom na preglednost,
 
 ### 🧠 Python & Machine Learning
 Pored frontenda, radio sam i na projektima iz Pythona i Machine Learninga, uključujući klasifikaciju sentimenta i predikciju kategorije proizvoda.
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+</p>
+
+### Ostalo
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+</p>
