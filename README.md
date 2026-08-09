@@ -16,14 +16,11 @@ Python • Git • GitHub • VS Code
 
 ## 🚀 Projekti
 
-### 🛒 E-commerce Website
-
+### 🛒 [E-commerce Website](https://github.com/MirsadMemic/e-commerce-projekta)
 Frontend e-commerce projekat sa fokusom na responzivan dizajn, prikaz proizvoda i korisničko iskustvo.
 
-### 🌐 Business Website
-
+### 🌐 [Business Website](https://github.com/MirsadMemic/stigrad-doo)
 Moderna web stranica za građevinsku firmu, izrađena sa fokusom na preglednost, responzivnost i jednostavno korisničko iskustvo.
 
-### 🧠 Machine Learning projekti
-
+### 🧠 Python & Machine Learning
 Pored frontenda, radio sam i na projektima iz Pythona i Machine Learninga, uključujući klasifikaciju sentimenta i predikciju kategorije proizvoda.
