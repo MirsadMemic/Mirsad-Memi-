@@ -52,4 +52,5 @@ Pored frontenda, radio sam i na projektima iz Pythona i Machine Learninga, uklju
 Otvoren sam za saradnju, frontend projekte i nove prilike za učenje i razvoj.
 
 * GitHub: [Moj profil](https://github.com/MirsadMemic)
+* - LinkedIn: [Mirsad Memić](https://www.linkedin.com/in/mirsad-memi%C4%87-249974428/)
 
