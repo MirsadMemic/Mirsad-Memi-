@@ -38,3 +38,18 @@ Pored frontenda, radio sam i na projektima iz Pythona i Machine Learninga, uklju
 <p>
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 </p>
+
+## 🌱 Trenutno učim
+
+* React
+* TypeScript
+* Napredni JavaScript
+* Responsive Web Design
+* Frontend best practices
+
+## 📫 Kontakt
+
+Otvoren sam za saradnju, frontend projekte i nove prilike za učenje i razvoj.
+
+* GitHub: [Moj profil](https://github.com/MirsadMemic)
+
